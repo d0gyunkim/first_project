@@ -19,7 +19,7 @@
 2.  국민 청원 속 내용들이 대중적 관심도(여론)을 반영했는지를 K-means 군집화를 통해 알아볼 것이다.
 3.  이미 시행되었던, 청와대 국민 청원의 한계를 극복하기 위해선 어떻게 해야 하는가?에 대해 로지스틱 회귀를 통해 알아볼 것이다. 
 
-
+자세한 내용은 [보고서 참조] (https://docs.google.com/document/d/1NI3zZKS0wEWDqC323Zms8JCyntr5yGdV/edit?usp=sharing&ouid=110366338460571077687&rtpof=true&sd=true)
 
 
 
